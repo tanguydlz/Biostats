@@ -16,14 +16,17 @@ PROC MEANS data=biostat_table;
 var Age TotSympt Score;
 RUN;
 
-PROC UNIVARIATE data=biostat_table;
-var Age TotSympt Score;
-RUN;
-
-proc freq data=biostat_table;
-tables Gravite*Hospit_ou_rehospit;
+proc sgplot data=biostat_table;
+  histogram Age / nbins=10;
 run;
 
+proc sgplot data=biostat_table;
+  vbar Sexe / response=Hospit_ou_rehospit;
+run;
+
+proc sgplot data=biostat_table;
+  histogram Score / nbins=10 ;
+run;
 
 /* Tables de contingence */
 proc freq data=biostat_table;
@@ -33,4 +36,5 @@ run;
 proc freq data=biostat_table;
 tables Gravite*R_TDM_TAP / chisq measures;
 run;
+
 
