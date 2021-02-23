@@ -1,0 +1,981 @@
+N_Fiche;Age;Sexe;Ceph_Courb;Gout_Odorat;SymptORL;SymptDig;TotSympt;FR;SpO2;Avec_maladie_respi_hypercapnique;Air_ou_O2;PAS;FC;Conscience;Temp;Score;Gravite;R_TDM_TAP;Hospit;RT_PCR;NP_SAU;Delai_vs_P2;Hospit_ou_rehospit
+1;18;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=0;0;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+2;18;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=0;0;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+3;18;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=0;0;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+4;18;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=0;0;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+5;18;F;Non;Oui;Non;Oui;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=0;0;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+6;18;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=0;0;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+7;18;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=0;0;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+8;18;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=0;0;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+9;18;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=0;0;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+10;18;F;Oui;Oui;Oui;Non;3;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+11;18;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+12;18;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=1;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+13;18;F;Non;Oui;Non;Oui;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+14;18;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+15;18;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+16;18;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+17;19;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+18;19;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=2;Score=0;Score=2;4;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+19;19;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+20;19;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+21;19;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+22;19;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+23;19;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+24;19;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+25;19;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+26;19;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+27;20;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+28;20;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+29;20;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+30;20;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+31;20;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+32;20;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+33;20;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+34;20;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+35;21;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+36;21;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+37;21;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+38;21;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+39;21;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+40;21;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+41;21;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+42;21;M;Non;Oui;Non;Oui;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+43;21;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+44;21;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+45;21;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+46;22;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+47;22;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+48;22;F;Non;Oui;Non;Oui;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+49;22;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+50;22;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+51;22;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+52;22;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+53;22;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+54;22;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+55;23;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+56;23;M;Non;Oui;Non;Oui;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+57;23;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+58;23;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+59;23;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+60;23;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+61;23;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=1;Score=0;Score=2;3;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+62;23;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+63;23;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+64;23;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+65;23;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+66;23;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+67;23;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+68;23;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+69;23;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+70;23;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+71;23;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+72;23;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+73;23;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+74;23;M;Non;Oui;Non;Oui;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+75;24;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+76;24;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+77;24;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+78;24;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+79;24;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+80;24;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+81;24;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+82;24;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+83;25;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+84;25;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+85;25;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+86;25;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=2;Score=0;Score=1;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+87;25;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+88;25;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+89;25;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+90;25;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+91;25;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+92;25;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+93;25;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+94;25;F;Oui;Oui;Oui;Non;3;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+95;26;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+96;26;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+97;26;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+98;26;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+99;26;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+100;26;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+101;26;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+102;26;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+103;26;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+104;26;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+105;26;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+106;26;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+107;26;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+108;26;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+109;26;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+110;26;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+111;26;F;Oui;Oui;Oui;Non;3;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+112;26;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+113;26;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+114;26;F;Oui;Oui;Oui;Non;3;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+115;26;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+116;27;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+117;27;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+118;27;F;Oui;Oui;Oui;Non;3;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+119;27;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+120;27;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+121;27;F;Non;Non;Oui;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+122;27;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+123;27;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+124;27;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+125;27;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+126;27;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+127;27;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+128;27;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+129;28;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+130;28;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+131;28;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+132;28;M;Oui;Oui;Oui;Non;3;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+133;28;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+134;28;F;Non;Oui;Non;Oui;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+135;28;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+136;28;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+137;28;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+138;28;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+139;28;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+140;28;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+141;28;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+142;28;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+143;29;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+144;29;M;Oui;Oui;Non;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+145;29;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+146;29;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+147;29;F;Non;Oui;Non;Oui;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+148;29;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+149;29;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+150;29;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+151;29;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+152;29;M;Non;Oui;Non;Oui;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+153;29;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+154;29;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+155;29;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+156;29;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+157;29;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+158;30;M;Non;Non;Non;Oui;1;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Pas d'envahissement;Oui;Négatif;Non;NC;Oui
+159;30;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+160;30;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+161;30;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+162;30;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+163;30;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+164;30;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+165;30;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+166;31;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+167;31;F;Non;Oui;Non;Oui;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+168;31;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+169;31;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+170;31;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+171;31;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+172;31;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+173;31;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+174;31;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+175;31;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+176;31;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+177;31;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+178;31;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+179;31;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+180;31;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+181;31;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+182;31;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+183;31;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+184;31;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+185;31;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+186;31;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+187;31;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+188;32;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+189;32;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+190;32;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=1;Score=0;Score=1;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+191;32;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+192;32;F;Non;Oui;Non;Oui;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+193;32;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+194;32;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+195;32;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+196;32;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+197;32;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+198;32;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+199;32;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+200;32;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+201;32;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+202;32;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+203;32;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+204;32;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+205;32;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+206;33;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+207;33;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+208;33;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+209;33;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+210;33;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+211;33;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+212;33;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+213;33;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+214;33;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+215;33;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+216;33;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+217;33;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+218;34;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+219;34;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+220;34;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+221;34;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+222;34;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+223;34;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+224;34;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+225;34;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+226;34;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+227;34;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+228;34;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+229;34;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+230;34;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+231;34;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+232;34;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+233;34;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+234;34;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+235;34;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+236;35;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+237;35;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+238;35;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+239;35;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+240;35;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+241;35;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+242;35;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+243;35;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+244;35;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+245;35;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+246;35;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+247;35;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+248;35;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+249;35;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+250;35;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+251;35;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+252;35;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=1;Score=0;Score=2;9;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+253;35;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+254;36;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+255;36;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+256;36;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+257;36;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+258;36;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+259;36;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+260;36;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+261;36;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+262;36;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+263;36;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+264;36;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+265;36;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+266;36;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+267;36;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+268;36;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+269;36;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+270;36;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+271;37;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+272;37;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+273;37;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+274;37;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+275;37;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+276;37;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+277;37;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+278;37;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+279;37;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+280;37;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+281;37;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+282;37;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+283;37;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+284;37;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+285;37;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+286;37;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+287;37;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+288;37;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+289;37;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+290;37;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+291;37;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+292;37;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+293;37;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+294;37;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+295;38;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+296;38;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+297;38;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+298;38;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+299;38;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Envahissement <25%;Non;Positif;Oui;1;Oui
+300;38;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+301;38;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+302;38;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+303;38;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+304;38;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+305;38;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+306;38;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+307;38;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+308;38;F;Non;Non;Oui;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+309;38;M;Non;Oui;Non;Oui;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+310;39;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+311;39;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+312;39;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+313;39;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+314;39;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+315;39;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+316;39;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+317;39;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+318;39;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+319;39;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+320;39;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+321;39;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+322;39;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+323;39;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+324;39;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+325;39;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+326;39;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+327;39;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+328;39;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+329;39;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+330;39;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+331;40;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+332;40;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+333;40;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+334;40;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+335;40;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+336;40;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+337;40;F;Non;Oui;Oui;Oui;3;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+338;40;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+339;40;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+340;40;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+341;40;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+342;40;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+343;40;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+344;40;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+345;40;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+346;41;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+347;41;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+348;41;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+349;41;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+350;41;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+351;41;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+352;41;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+353;41;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+354;41;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+355;42;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+356;42;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+357;42;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+358;42;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+359;42;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+360;42;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+361;42;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+362;42;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+363;42;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+364;42;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+365;42;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+366;42;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+367;45;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+368;45;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+369;45;M;Non;Non;Oui;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+370;45;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+371;45;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+372;45;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+373;45;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+374;45;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+375;45;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+376;45;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+377;45;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+378;45;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+379;45;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+380;45;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+381;46;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+382;46;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+383;46;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+384;46;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+385;46;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+386;46;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+387;46;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+388;46;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+389;46;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+390;46;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+391;46;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+392;47;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+393;47;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+394;47;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+395;47;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+396;47;M;Non;Oui;Non;Oui;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+397;47;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+398;47;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+399;47;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+400;47;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+401;47;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+402;47;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+403;47;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+404;48;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+405;48;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+406;48;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+407;48;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+408;48;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+409;48;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+410;48;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+411;48;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+412;48;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+413;48;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+414;49;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+415;49;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+416;49;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+417;49;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+418;49;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+419;49;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+420;49;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+421;49;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+422;49;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+423;49;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+424;49;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+425;49;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+426;49;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+427;49;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+428;49;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+429;50;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+430;50;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+431;50;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+432;50;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+433;50;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+434;51;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+435;51;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+436;51;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+437;51;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+438;51;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+439;51;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+440;51;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+441;51;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+442;51;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+443;51;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+444;51;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+445;52;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+446;52;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+447;52;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+448;52;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+449;52;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+450;52;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+451;52;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+452;52;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+453;52;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+454;52;F;Non;Non;Oui;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+455;52;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+456;52;M;Non;Non;Oui;Non;1;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+457;52;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+458;52;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+459;52;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+460;53;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+461;53;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+462;53;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+463;53;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+464;53;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+465;53;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+466;53;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+467;53;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+468;53;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+469;53;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+470;53;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+471;53;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+472;53;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+473;53;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+474;53;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+475;54;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+476;54;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+477;54;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+478;54;M;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+479;54;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+480;54;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+481;54;F;Non;Non;Oui;Non;1;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+482;54;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+483;54;F;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+484;54;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+485;54;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+486;54;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+487;54;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+488;55;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+489;55;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+490;55;M;Non;Oui;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+491;55;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+492;55;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+493;55;M;Oui;Non;Oui;Oui;3;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+494;55;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+495;55;M;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+496;56;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+497;56;F;Non;Non;Oui;Non;1;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+498;56;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+499;56;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+500;56;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+501;56;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+502;56;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+503;56;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Envahissement <25%;Non;Positif;Oui;3;Oui
+504;56;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+505;57;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+506;57;F;Oui;Non;Oui;Oui;3;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+507;57;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+508;57;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+509;57;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+510;57;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+511;57;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+512;57;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+513;57;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+514;57;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+515;57;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+516;57;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+517;57;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+518;57;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+519;58;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+520;58;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+521;58;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+522;58;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+523;58;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+524;58;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+525;58;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+526;58;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+527;58;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+528;58;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+529;58;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+530;58;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+531;58;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+532;58;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Envahissement <25%;Non;Positif;Oui;1;Oui
+533;59;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+534;59;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+535;59;M;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+536;59;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+537;59;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+538;59;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+539;59;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+540;59;F;Non;Oui;Non;Non;1;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+541;59;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+542;59;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+543;60;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+544;60;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+545;60;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+546;60;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+547;60;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+548;60;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+549;60;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+550;60;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+551;60;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+552;61;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+553;61;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+554;61;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+555;61;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+556;61;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+557;61;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+558;61;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+559;61;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+560;61;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+561;61;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+562;61;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+563;61;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+564;61;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+565;62;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+566;62;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+567;62;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+568;62;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+569;62;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+570;62;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+571;62;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+572;62;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+573;62;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+574;62;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+575;63;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+576;63;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+577;63;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+578;63;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+579;63;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+580;63;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+581;63;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+582;63;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+583;63;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+584;63;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+585;63;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+586;63;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+587;63;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+588;63;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+589;63;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+590;63;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+591;63;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+592;64;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+593;64;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+594;64;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+595;64;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+596;64;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+597;64;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+598;64;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+599;64;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+600;64;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+601;64;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+602;64;F;Non;Oui;Non;Non;1;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+603;64;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+604;64;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+605;64;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+606;65;M;Oui;Non;Oui;Oui;3;Score=0;Score=0;Oui;Score=2;Score=1;Score=0;Score=0;Score=2;5;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+607;65;F;Non;Oui;Non;Non;1;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+608;65;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+609;65;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+610;65;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+611;65;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+612;65;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+613;65;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+614;65;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+615;65;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+616;65;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+617;65;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+618;65;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+619;65;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+620;65;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+621;65;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+622;65;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+623;65;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+624;66;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+625;66;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+626;66;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+627;66;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+628;66;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+629;66;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+630;66;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+631;66;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+632;66;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+633;66;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+634;66;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+635;66;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+636;67;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+637;67;M;Oui;Oui;Oui;Non;3;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+638;67;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+639;67;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+640;67;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+641;67;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+642;67;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+643;67;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+644;67;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+645;67;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+646;67;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+647;68;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+648;68;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+649;68;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+650;68;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+651;68;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+652;68;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+653;68;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+654;68;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+655;68;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+656;69;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+657;69;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+658;69;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+659;69;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+660;69;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+661;69;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+662;69;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+663;69;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=2;8;5 - ELEVEE;Envahissement >50%;Oui;Positif;Non;NC;Oui
+664;69;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+665;69;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+666;69;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+667;69;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+668;69;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=2;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+669;69;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+670;69;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+671;70;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+672;70;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=2;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+673;70;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+674;70;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+675;70;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+676;70;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+677;70;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+678;70;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+679;70;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+680;70;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+681;70;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+682;70;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+683;70;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+684;71;F;Oui;Non;Oui;Oui;3;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+685;71;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+686;71;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+687;71;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+688;71;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Envahissement <25%;Non;Positif;Oui;3;Oui
+689;71;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+690;71;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=2;5;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+691;71;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+692;71;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+693;71;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+694;71;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+695;71;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+696;71;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=2;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+697;71;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=2;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+698;71;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+699;72;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+700;72;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+701;72;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+702;72;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+703;72;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+704;72;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+705;72;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+706;72;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+707;72;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+708;72;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+709;72;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+710;72;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+711;72;F;Oui;Non;Oui;Oui;3;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+712;73;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+713;73;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+714;73;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+715;73;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+716;73;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+717;73;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+718;73;F;Oui;Non;Oui;Oui;3;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+719;73;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+720;73;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+721;73;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+722;73;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+723;73;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+724;73;F;Oui;Non;Oui;Oui;3;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+725;74;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+726;74;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+727;74;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+728;74;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+729;74;M;Oui;Non;Oui;Oui;3;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+730;74;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+731;74;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+732;74;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+733;75;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+734;75;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+735;75;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+736;75;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+737;75;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+738;75;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+739;75;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+740;75;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+741;75;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+742;75;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+743;75;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+744;75;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+745;75;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+746;75;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+747;75;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+748;75;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+749;75;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+750;76;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=3;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+751;76;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+752;76;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+753;76;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+754;76;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+755;76;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+756;76;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+757;76;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+758;76;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+759;77;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+760;77;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+761;77;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+762;77;F;Oui;Non;Oui;Oui;3;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+763;77;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+764;77;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+765;77;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+766;77;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+767;77;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+768;77;M;Oui;Non;Oui;Oui;3;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+769;77;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+770;77;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+771;77;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+772;77;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+773;77;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+774;78;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+775;78;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+776;78;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+777;78;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+778;78;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+779;78;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+780;78;F;Oui;Non;Oui;Oui;3;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+781;78;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+782;78;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+783;78;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+784;78;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+785;78;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+786;78;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+787;79;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+788;79;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+789;79;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+790;79;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+791;79;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+792;79;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+793;79;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+794;79;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+795;79;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+796;79;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+797;79;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+798;80;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+799;80;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+800;80;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+801;80;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+802;80;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+803;80;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+804;80;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+805;80;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+806;80;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+807;80;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+808;80;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+809;81;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+810;81;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+811;81;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+812;81;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+813;81;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+814;81;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+815;81;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+816;81;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+817;81;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+818;81;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+819;82;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+820;82;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+821;82;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+822;82;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+823;82;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+824;82;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+825;82;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+826;82;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+827;82;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+828;82;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+829;82;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+830;82;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+831;82;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+832;82;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+833;82;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+834;82;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+835;82;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+836;82;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+837;83;M;Oui;Non;Oui;Oui;3;Score=2;Score=1;Oui;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement <25%;Oui;Positif;Non;NC;Oui
+838;83;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+839;83;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+840;83;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+841;83;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+842;83;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+843;83;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+844;83;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+845;83;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+846;83;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+847;83;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+848;83;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+849;83;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+850;83;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+851;83;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+852;83;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+853;83;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+854;83;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+855;84;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+856;84;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+857;84;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+858;84;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+859;84;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+860;84;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+861;84;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+862;84;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+863;84;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+864;84;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+865;84;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+866;85;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+867;85;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+868;85;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+869;85;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+870;85;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+871;85;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+872;85;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+873;85;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+874;85;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+875;85;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+876;85;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+877;85;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Oui;Positif;Non;NC;Oui
+878;85;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Oui;Positif;Non;NC;Oui
+879;85;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+880;86;F;Oui;Non;Oui;Oui;3;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+881;86;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+882;86;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+883;86;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+884;86;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+885;86;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+886;86;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+887;86;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+888;86;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+889;86;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+890;86;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+891;86;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+892;86;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+893;86;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+894;87;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+895;87;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+896;87;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+897;87;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+898;87;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+899;87;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Oui;Positif;Non;NC;Oui
+900;87;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+901;87;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Oui;Positif;Non;NC;Oui
+902;87;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+903;87;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+904;87;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+905;87;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+906;88;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+907;88;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+908;88;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+909;88;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+910;88;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+911;88;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=3;Score=1;9;5 - ELEVEE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+912;88;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+913;88;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+914;88;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+915;88;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+916;88;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+917;89;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+918;89;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+919;89;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=3;Score=1;5;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+920;89;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+921;89;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+922;89;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+923;89;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Oui;Positif;Non;NC;Oui
+924;89;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Oui;Positif;Non;NC;Oui
+925;89;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+926;89;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+927;89;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+928;89;F;Oui;Non;Oui;Oui;3;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+929;70;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Oui;Positif;Non;NC;Oui
+930;70;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Oui;Positif;Non;NC;Oui
+931;74;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Oui;Positif;Non;NC;Oui
+932;61;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+933;62;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+934;73;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=1;Score=0;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+935;66;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=3;Score=1;Score=0;Score=1;7;4 - ELEVEE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+936;66;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=2;Score=1;Score=3;Score=1;8;5 - ELEVEE;Envahissement <25%;Non;Positif;Oui;1;Oui
+937;90;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+938;90;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=1;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;2;Oui
+939;90;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Oui;Positif;Non;NC;Oui
+940;90;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+941;90;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+942;90;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=2;Score=1;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Oui;1;Oui
+943;90;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+944;91;M;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=2;Score=1;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+945;91;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+946;91;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+947;91;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+948;91;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+949;91;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Oui;3;Oui
+950;91;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+951;91;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+952;91;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+953;91;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+954;91;M;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+955;92;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+956;92;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=3;Score=1;5;3 - MODEREE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+957;92;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+958;92;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+959;76;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=2;Score=1;Score=0;Score=1;4;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+960;52;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+961;50;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+962;60;F;Oui;Non;Oui;Non;2;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Pas d'envahissement;Non;Positif;Non;NC;Non
+963;75;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >50%;Oui;Positif;Non;NC;Oui
+964;72;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+965;75;M;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+966;80;F;Oui;Non;Oui;Oui;3;Score=0;Score=0;Non;Score=0;Score=0;Score=0;Score=0;Score=1;1;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Oui;1;Oui
+967;92;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=1;Score=0;Score=0;Score=1;4;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+968;92;F;Oui;Non;Oui;Non;2;Score=0;Score=3;Non;Score=2;Score=0;Score=0;Score=0;Score=1;6;3 - MODEREE - EVALUER;Envahissement >25% et <50%;Oui;Positif;Non;NC;Oui
+969;92;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Non;NC;Non
+970;92;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement <25%;Non;Positif;Non;NC;Non
+971;92;M;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement <25%;Non;Positif;Oui;1;Oui
+972;92;F;Oui;Non;Oui;Non;2;Score=0;Score=2;Non;Score=0;Score=0;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+973;92;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=0;Score=0;Score=0;Score=1;2;1 - BASSE;Envahissement >25% et <50%;Non;Positif;Non;NC;Non
+974;92;F;Oui;Non;Oui;Non;2;Score=0;Score=1;Non;Score=0;Score=1;Score=0;Score=0;Score=1;3;2 - BASSE - EVALUER;Pas d'envahissement;Non;Positif;Non;NC;Non
+;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;
