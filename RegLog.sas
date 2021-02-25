@@ -11,30 +11,27 @@ RUN;
 /*modele 1 avec scan AIC = 401 */
 proc glimmix data=work.data_projet;
 class Gravite R_TDM_TAP FC Temp;
-model Hospit_ou_rehospit = Gravite R_TDM_TAP FC Temp/ dist = binary
+model Hospit_ou_rehospit(event='Oui') = Gravite R_TDM_TAP FC Temp/ dist = binary
  			link=logit
  			chisq
  			ddfm=none
  			solution;
-/* Combinaison linéaire des coefficients */
-estimate 'Logit et proba gravite BASSE' Intercept 1 Gravite 1 0 0 0 / ilink e cl; 
-estimate 'Logit et proba gravite BASSE-EVALUER' Intercept 1 Gravite 0 1 0 0 / ilink e cl; 
-estimate 'Logit et proba gravite MODEREE-EVALUER' Intercept 1 Gravite 0 0 1 0 / ilink e cl; 
-lsmeans Gravite R_TDM_TAP FC Temp/ cl ilink;
+/* Combinaison linéaire des coefficients */ 
+*estimate 'Logit et proba scan=Envahissement >25% et <50%+Gravité=Moderee-Evaluer' Intercept 1 R_TDM_TAP 0 1 0 0 Gravite 0 0 1 0 0 / ilink e cl;
+*estimate 'Logit et proba scan=Envahissement >25% et <50%+Gravité=Elevee' Intercept 1 R_TDM_TAP 0 1 0 0 Gravite 0 0 0 0 1 / ilink e cl;
+*estimate 'Logit et proba scan Envahissement >25% et <50%+FC = 2 ' Intercept 1 R_TDM_TAP 0 1 0 0 FC 0 0 1 / ilink e cl;  
+*estimate 'Logit et proba scan Envahissement >25% et <50%+FC = 1 ' Intercept 1 R_TDM_TAP 0 1 0 0 FC 0 1 0 / ilink e cl; 
+*estimate 'Logit et proba scan Envahissement >25% et <50%+Temp = 2 ' Intercept 1 R_TDM_TAP 0 0 0 1 Temp 0 1 0 / ilink e cl; 
+*estimate 'Logit et proba scan Envahissement >25% et <50%+Temp = 0 ' Intercept 1 R_TDM_TAP 1 0 0 0 Temp 0 0 1 / ilink e cl; 
+*lsmeans Gravite R_TDM_TAP FC Temp/ cl ilink;
 /*Odds Ratios --> proba de l'évenement / proba de l'évenement contraire*/
-estimate 'OR(Retine_saine/Retine_depigm T1/T2)' Intercept 0 Temp 0 1 -1 / cl e ilink exp; /* OR = Odd Ratio*/
-run;
-
-
-proc glimmix data=work.data_projet;
-class SpO2 FC Temp;
-model Hospit_ou_rehospit(event='Oui') = SpO2 FC Temp/ dist = binary
- 			link=logit
- 			chisq
- 			ddfm=none
- 			solution;
-/* Combinaison linéaire des coefficients */
-lsmeans SpO2 FC Temp/ cl ilink;
+estimate 'OR(scan Envahissement >25% et <50%/proba évènement contraire)' Intercept 0 R_TDM_TAP -1 3 -1 -1 / cl e ilink exp;
+estimate 'OR(scan Envahissement <25%/proba évènement contraire)' Intercept 0 R_TDM_TAP 3 -1 -1 -1 / cl e ilink exp;
+estimate 'OR(scan Envahissement >50%/proba évènement contraire)' Intercept 0 R_TDM_TAP -1 -1 3 -1 / cl e ilink exp;
+estimate 'OR(scan Pas Envahissement/proba évènement contraire)' Intercept 0 R_TDM_TAP -1 -1 -1 3 / cl e ilink exp;
+estimate 'OR(FC 2/proba évènement contraire)' Intercept 0 FC -1 -1 2 / cl e ilink exp;
+estimate 'OR(FC 1/proba évènement contraire)' Intercept 0 FC -1 2 -1 / cl e ilink exp;
+estimate 'OR(gravité 5/proba évènement contraire)' Intercept 0 Gravite -1 -1 -1 -1 4 / cl e ilink exp;
 run;
 
 
@@ -72,12 +69,4 @@ model Hospit_ou_rehospit = Ceph_Courb SymptORL FR SpO2 FC/ dist = binary
 lsmeans Ceph_Courb SymptORL FR SpO2 FC/ cl ilink;
 run;
 
-proc glimmix data=work.data_projet;
-class Sexe Ceph_Courb Gout_Odorat SymptORL SymptDig TotSympt FR SpO2 Avec_maladie_respi_hypercapnique Air_ou_O2 PAS FC Conscience Temp;
-model Hospit_ou_rehospit = Sexe Ceph_Courb Gout_Odorat SymptORL SymptDig TotSympt FR SpO2 Avec_maladie_respi_hypercapnique Air_ou_O2 PAS FC Conscience Temp/ dist = binary
- 			link=logit
- 			chisq
- 			ddfm=none
- 			solution;
-lsmeans Ceph_Courb SymptORL FR SpO2 FC/ cl ilink;
-run;
+
